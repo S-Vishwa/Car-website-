@@ -1,0 +1,1 @@
+https://github.com/Sriram17E/PSORIASIS-SKIN-DEASISES-DETECTION-USING-CNN.git
